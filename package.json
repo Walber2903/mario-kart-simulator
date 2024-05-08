@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Walber Menezes",
+  "license": "ISC"
+}
