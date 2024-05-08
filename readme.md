@@ -111,6 +111,20 @@
       </li>
     </ul>
   </li>
+  <li>
+    <input type="checkbox" id="track-3-item" /> 
+    <label for="track-2-item">Confrontation.</label>
+    <ul>
+      <li>
+        <input type="checkbox" id="Tracks-3-1-item" /> 
+        <label for="Tracks-3-1-item">Randomly draw whether it is a turlte shell (-1 point) or a bomb (-2 points)</label>
+      </li>
+      <li>
+        <input type="checkbox" id="Tracks-3-2-item" /> 
+        <label for="Tracks-3-2-item">Whoever wins the confrontation gets a turbo (+ 1 point) randomly</label>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 <b>Win condition:</b>
